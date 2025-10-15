@@ -1,0 +1,16 @@
+public class plot{
+	public enum PlotType { RES_5_MARLA,
+ 	RES_10_MARLA,
+ 	RES_1_KANAL,
+ 	COMM_SHOP,
+ 	COMM_OFFICE,
+ 	PARKING }
+
+
+
+
+
+
+
+
+}
